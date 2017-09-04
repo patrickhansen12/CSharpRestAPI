@@ -1,0 +1,7 @@
+C:\Users\patrick\Desktop\Video-master\VideoMenuDAL\bin\Debug\netcoreapp1.1\VideoMenuDAL.deps.json
+C:\Users\patrick\Desktop\Video-master\VideoMenuDAL\bin\Debug\netcoreapp1.1\VideoMenuDAL.dll
+C:\Users\patrick\Desktop\Video-master\VideoMenuDAL\bin\Debug\netcoreapp1.1\VideoMenuDAL.pdb
+C:\Users\patrick\Desktop\Video-master\VideoMenuDAL\obj\Debug\netcoreapp1.1\VideoMenuDAL.csprojResolveAssemblyReference.cache
+C:\Users\patrick\Desktop\Video-master\VideoMenuDAL\obj\Debug\netcoreapp1.1\VideoMenuDAL.AssemblyInfo.cs
+C:\Users\patrick\Desktop\Video-master\VideoMenuDAL\obj\Debug\netcoreapp1.1\VideoMenuDAL.dll
+C:\Users\patrick\Desktop\Video-master\VideoMenuDAL\obj\Debug\netcoreapp1.1\VideoMenuDAL.pdb

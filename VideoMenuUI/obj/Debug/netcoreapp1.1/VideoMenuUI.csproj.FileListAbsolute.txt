@@ -1,0 +1,13 @@
+C:\Users\patrick\Desktop\Video-master\VideoMenuUI\bin\Debug\netcoreapp1.1\VideoMenuUI.deps.json
+C:\Users\patrick\Desktop\Video-master\VideoMenuUI\bin\Debug\netcoreapp1.1\VideoMenuUI.runtimeconfig.json
+C:\Users\patrick\Desktop\Video-master\VideoMenuUI\bin\Debug\netcoreapp1.1\VideoMenuUI.runtimeconfig.dev.json
+C:\Users\patrick\Desktop\Video-master\VideoMenuUI\bin\Debug\netcoreapp1.1\VideoMenuUI.dll
+C:\Users\patrick\Desktop\Video-master\VideoMenuUI\bin\Debug\netcoreapp1.1\VideoMenuUI.pdb
+C:\Users\patrick\Desktop\Video-master\VideoMenuUI\bin\Debug\netcoreapp1.1\VideoMenuBLL.dll
+C:\Users\patrick\Desktop\Video-master\VideoMenuUI\bin\Debug\netcoreapp1.1\VideoMenuDAL.dll
+C:\Users\patrick\Desktop\Video-master\VideoMenuUI\bin\Debug\netcoreapp1.1\VideoMenuBLL.pdb
+C:\Users\patrick\Desktop\Video-master\VideoMenuUI\bin\Debug\netcoreapp1.1\VideoMenuDAL.pdb
+C:\Users\patrick\Desktop\Video-master\VideoMenuUI\obj\Debug\netcoreapp1.1\VideoMenuUI.csprojResolveAssemblyReference.cache
+C:\Users\patrick\Desktop\Video-master\VideoMenuUI\obj\Debug\netcoreapp1.1\VideoMenuUI.AssemblyInfo.cs
+C:\Users\patrick\Desktop\Video-master\VideoMenuUI\obj\Debug\netcoreapp1.1\VideoMenuUI.dll
+C:\Users\patrick\Desktop\Video-master\VideoMenuUI\obj\Debug\netcoreapp1.1\VideoMenuUI.pdb
