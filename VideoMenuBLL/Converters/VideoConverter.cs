@@ -8,21 +8,31 @@ namespace VideoMenuBLL.Converters
 {
     class VideoConverter
     {
+
         internal Video Convert(VideoBO video)
         {
+            if (video == null)
+            {
+                return null;}
             return new Video()
             {
                 Id = video.Id,
-                Name = video.Name
+                Name = video.Name,
+                //Genre = new GenreConverter().Convert(video.Genre)
             };
         }
 
         internal VideoBO Convert(Video video)
         {
+            if (video == null)
+            {
+                return null;
+            }
             return new VideoBO()
             {
                 Id = video.Id,
-                Name = video.Name
+                Name = video.Name,
+                //Genre = new GenreConverter().Convert(video.Genre)
             };
         }
     }

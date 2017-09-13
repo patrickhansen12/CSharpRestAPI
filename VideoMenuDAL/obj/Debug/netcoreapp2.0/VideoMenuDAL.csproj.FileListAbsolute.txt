@@ -1,0 +1,9 @@
+C:\Users\patrick\Documents\GitHub\RestAPIv2.0\VideoMenuDAL\bin\Debug\netcoreapp2.0\VideoMenuDAL.deps.json
+C:\Users\patrick\Documents\GitHub\RestAPIv2.0\VideoMenuDAL\bin\Debug\netcoreapp2.0\VideoMenuDAL.dll
+C:\Users\patrick\Documents\GitHub\RestAPIv2.0\VideoMenuDAL\bin\Debug\netcoreapp2.0\VideoMenuDAL.pdb
+C:\Users\patrick\Documents\GitHub\RestAPIv2.0\VideoMenuDAL\obj\Debug\netcoreapp2.0\VideoMenuDAL.csprojResolveAssemblyReference.cache
+C:\Users\patrick\Documents\GitHub\RestAPIv2.0\VideoMenuDAL\obj\Debug\netcoreapp2.0\VideoMenuDAL.csproj.CoreCompileInputs.cache
+C:\Users\patrick\Documents\GitHub\RestAPIv2.0\VideoMenuDAL\obj\Debug\netcoreapp2.0\VideoMenuDAL.AssemblyInfoInputs.cache
+C:\Users\patrick\Documents\GitHub\RestAPIv2.0\VideoMenuDAL\obj\Debug\netcoreapp2.0\VideoMenuDAL.AssemblyInfo.cs
+C:\Users\patrick\Documents\GitHub\RestAPIv2.0\VideoMenuDAL\obj\Debug\netcoreapp2.0\VideoMenuDAL.dll
+C:\Users\patrick\Documents\GitHub\RestAPIv2.0\VideoMenuDAL\obj\Debug\netcoreapp2.0\VideoMenuDAL.pdb

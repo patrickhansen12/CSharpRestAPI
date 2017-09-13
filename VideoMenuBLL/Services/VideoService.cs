@@ -11,7 +11,7 @@ namespace VideoMenuBLL.Services
 {
     class VideoService : IVideoService
     {
-        VideoConverter conv = new VideoConverter();
+       public VideoConverter conv = new VideoConverter();
 
         DALFacade facade;
 
@@ -20,15 +20,32 @@ namespace VideoMenuBLL.Services
             this.facade = facade;
         }
 
-        public VideoBO Create(VideoBO video)
+        public VideoBO Create(VideoBO vid)
         {
             using (var uow = facade.UnitOfWork)
             {
-                var newVideo = uow.VideoRepository.Create(conv.Convert(video));
+                var newVideo = uow.VideoRepository.Create(conv.Convert(vid));
                 uow.Complete();
                 return conv.Convert(newVideo);
             }
         }
+
+        public void CreateAll(List<VideoBO> videos)
+            {
+
+                using (var uow = facade.UnitOfWork)
+                {
+                    foreach (var video in videos)
+                    {
+                        uow.VideoRepository.Create(conv.Convert(video));
+                    }
+                    uow.Complete();
+                }
+            }
+
+
+
+        
 
         public VideoBO Delete(int Id)
         {

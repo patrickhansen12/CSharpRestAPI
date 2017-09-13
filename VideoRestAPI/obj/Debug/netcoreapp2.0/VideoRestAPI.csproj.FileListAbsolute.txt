@@ -1,0 +1,15 @@
+C:\Users\patrick\Documents\GitHub\RestAPIv2.0\VideoRestAPI\bin\Debug\netcoreapp2.0\VideoRestAPI.deps.json
+C:\Users\patrick\Documents\GitHub\RestAPIv2.0\VideoRestAPI\bin\Debug\netcoreapp2.0\VideoRestAPI.runtimeconfig.json
+C:\Users\patrick\Documents\GitHub\RestAPIv2.0\VideoRestAPI\bin\Debug\netcoreapp2.0\VideoRestAPI.runtimeconfig.dev.json
+C:\Users\patrick\Documents\GitHub\RestAPIv2.0\VideoRestAPI\bin\Debug\netcoreapp2.0\VideoRestAPI.dll
+C:\Users\patrick\Documents\GitHub\RestAPIv2.0\VideoRestAPI\bin\Debug\netcoreapp2.0\VideoRestAPI.pdb
+C:\Users\patrick\Documents\GitHub\RestAPIv2.0\VideoRestAPI\obj\Debug\netcoreapp2.0\VideoRestAPI.csprojResolveAssemblyReference.cache
+C:\Users\patrick\Documents\GitHub\RestAPIv2.0\VideoRestAPI\obj\Debug\netcoreapp2.0\VideoRestAPI.csproj.CoreCompileInputs.cache
+C:\Users\patrick\Documents\GitHub\RestAPIv2.0\VideoRestAPI\obj\Debug\netcoreapp2.0\VideoRestAPI.AssemblyInfoInputs.cache
+C:\Users\patrick\Documents\GitHub\RestAPIv2.0\VideoRestAPI\obj\Debug\netcoreapp2.0\VideoRestAPI.AssemblyInfo.cs
+C:\Users\patrick\Documents\GitHub\RestAPIv2.0\VideoRestAPI\obj\Debug\netcoreapp2.0\VideoRestAPI.dll
+C:\Users\patrick\Documents\GitHub\RestAPIv2.0\VideoRestAPI\obj\Debug\netcoreapp2.0\VideoRestAPI.pdb
+C:\Users\patrick\Documents\GitHub\RestAPIv2.0\VideoRestAPI\bin\Debug\netcoreapp2.0\VideoMenuBLL.dll
+C:\Users\patrick\Documents\GitHub\RestAPIv2.0\VideoRestAPI\bin\Debug\netcoreapp2.0\VideoMenuDAL.dll
+C:\Users\patrick\Documents\GitHub\RestAPIv2.0\VideoRestAPI\bin\Debug\netcoreapp2.0\VideoMenuBLL.pdb
+C:\Users\patrick\Documents\GitHub\RestAPIv2.0\VideoRestAPI\bin\Debug\netcoreapp2.0\VideoMenuDAL.pdb

@@ -1,0 +1,11 @@
+C:\Users\patrick\Documents\GitHub\RestAPIv2.0\VideoMenuBLL\bin\Debug\netcoreapp2.0\VideoMenuBLL.deps.json
+C:\Users\patrick\Documents\GitHub\RestAPIv2.0\VideoMenuBLL\bin\Debug\netcoreapp2.0\VideoMenuBLL.dll
+C:\Users\patrick\Documents\GitHub\RestAPIv2.0\VideoMenuBLL\bin\Debug\netcoreapp2.0\VideoMenuBLL.pdb
+C:\Users\patrick\Documents\GitHub\RestAPIv2.0\VideoMenuBLL\bin\Debug\netcoreapp2.0\VideoMenuDAL.dll
+C:\Users\patrick\Documents\GitHub\RestAPIv2.0\VideoMenuBLL\bin\Debug\netcoreapp2.0\VideoMenuDAL.pdb
+C:\Users\patrick\Documents\GitHub\RestAPIv2.0\VideoMenuBLL\obj\Debug\netcoreapp2.0\VideoMenuBLL.csprojResolveAssemblyReference.cache
+C:\Users\patrick\Documents\GitHub\RestAPIv2.0\VideoMenuBLL\obj\Debug\netcoreapp2.0\VideoMenuBLL.csproj.CoreCompileInputs.cache
+C:\Users\patrick\Documents\GitHub\RestAPIv2.0\VideoMenuBLL\obj\Debug\netcoreapp2.0\VideoMenuBLL.AssemblyInfoInputs.cache
+C:\Users\patrick\Documents\GitHub\RestAPIv2.0\VideoMenuBLL\obj\Debug\netcoreapp2.0\VideoMenuBLL.AssemblyInfo.cs
+C:\Users\patrick\Documents\GitHub\RestAPIv2.0\VideoMenuBLL\obj\Debug\netcoreapp2.0\VideoMenuBLL.dll
+C:\Users\patrick\Documents\GitHub\RestAPIv2.0\VideoMenuBLL\obj\Debug\netcoreapp2.0\VideoMenuBLL.pdb
